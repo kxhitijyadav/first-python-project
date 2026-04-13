@@ -1,3 +1,5 @@
+print("Welcome to News Finder!\n")
+
 import requests
 
 query = input("what type of news are you intersted in?\n")

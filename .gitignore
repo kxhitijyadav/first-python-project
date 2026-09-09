@@ -1,0 +1,7 @@
+# candidate resumes are PII - never commit them
+resumes/
+*.pdf
+*.docx
+*.doc
+LXR*.md
+__pycache__/
